@@ -12,4 +12,4 @@ This is a page with all the manual processes I needed to do to acomplish this pr
 
 Download the resulting credentials.json
 
-Save credentials.json in your project folder. Under `/secrets` -> the projet is configured not to commit that part
+Save credentials.json in your project folder. Under `/secrets` -> the projet is configured not to commit that part. Once the credentrials are there, a `token.json` file would be generated. You may need to move it to store it under `secrets`.
